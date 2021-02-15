@@ -1,0 +1,60 @@
+{
+    "animes":[
+        {
+            "id" : 0,
+            "title" : "Attack on Titan",
+            "image" : "images/dp.jpg",
+            "enable" : false,
+            "likes" : 200,
+            "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus ipsam doloribus eum, similique reprehenderit libero voluptatem vitae voluptate natus accusamus. Aliquam, ea praesentium repudiandae inventore magnam ad culpa ullam tempora?"
+        },
+        {
+            "id" : 1,
+            "title" : "Black Clover",
+            "image" : "images/dp.jpg",
+            "enable" : false,
+            "likes" : 4000,
+            "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus ipsam doloribus eum, similique reprehenderit libero voluptatem vitae voluptate natus accusamus. Aliquam, ea praesentium repudiandae inventore magnam ad culpa ullam tempora?"
+        },
+        {
+            "id" : 2,
+            "title" : "Plastic Memories",
+            "image" : "images/dp.jpg",
+            "enable" : false,
+            "likes" : 981,
+            "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus ipsam doloribus eum, similique reprehenderit libero voluptatem vitae voluptate natus accusamus. Aliquam, ea praesentium repudiandae inventore magnam ad culpa ullam tempora?"
+        },
+        {
+            "id" : 3,
+            "title" : "Slime in the generation",
+            "image" : "images/dp.jpg",
+            "enable" : false,
+            "likes" : 7643,
+            "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus ipsam doloribus eum, similique reprehenderit libero voluptatem vitae voluptate natus accusamus. Aliquam, ea praesentium repudiandae inventore magnam ad culpa ullam tempora?"
+        },
+        {
+            "id" : 4,
+            "title" : "Dragon Ball Z",
+            "image" : "images/dp.jpg",
+            "enable" : false,
+            "likes" : 9780,
+            "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus ipsam doloribus eum, similique reprehenderit libero voluptatem vitae voluptate natus accusamus. Aliquam, ea praesentium repudiandae inventore magnam ad culpa ullam tempora?"
+        },
+        {
+            "id" : 5,
+            "title" : "Gakscba akanlu",
+            "image" : "images/dp.jpg",
+            "enable" : false,
+            "likes" : 9999,
+            "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus ipsam doloribus eum, similique reprehenderit libero voluptatem vitae voluptate natus accusamus. Aliquam, ea praesentium repudiandae inventore magnam ad culpa ullam tempora?"
+        },
+        {
+            "id" : 6,
+            "title" : "Shichibukai One",
+            "image" : "images/dp.jpg",
+            "enable" : false,
+            "likes" : 8112,
+            "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus ipsam doloribus eum, similique reprehenderit libero voluptatem vitae voluptate natus accusamus. Aliquam, ea praesentium repudiandae inventore magnam ad culpa ullam tempora?"
+        }
+    ]
+}
